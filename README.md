@@ -4,3 +4,5 @@ testowe testowanie
 testowe repozytorium 
 testowy przypadek
 próbny przypadek testowy
+
+ćwiczenia tessty lalala
